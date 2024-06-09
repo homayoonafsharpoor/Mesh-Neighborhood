@@ -1,4 +1,4 @@
-# 59_HomayoonAfsharpoor
+# HomayoonAfsharpoor
 
 ## Beschreibung
 
@@ -40,8 +40,8 @@ Testdaten, Ergebnissen und Meshlab-Screenshots und Argumentsbefehl für Testdate
  * [Anleitung_zur_Testdata](https://gitlab.rlp.net/effprog_2023/02_projekte_abgaben/59_homayoon-afsharpoor/-/blob/main/Beispielenanwendung/Anleitung_zur_Testdata.txt)
  * [find_neighbors.exe](https://gitlab.rlp.net/effprog_2023/02_projekte_abgaben/59_homayoon-afsharpoor/-/blob/main/Beispielenanwendung/find_neighbors.exe)
 
-die Folien einer Kurzpräsentation zu dem Projekt :[Mesh_Neighborhood](https://gitlab.rlp.net/effprog_2023/02_projekte_abgaben/59_homayoon-afsharpoor/-/blob/main/Pr%C3%A4sentation/Mesh_Neighborhood.pdf)
 
-Dokumentation : [Dokumentation_59](https://gitlab.rlp.net/effprog_2023/02_projekte_abgaben/59_homayoon-afsharpoor/-/blob/main/Dokumentation_59.pdf)
+
+
 
 
