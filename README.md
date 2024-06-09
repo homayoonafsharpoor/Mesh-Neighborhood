@@ -1,8 +1,8 @@
-# 59_HomayoonAfsharpoor
+# HomayoonAfsharpoor
 
 ## Beschreibung
 
-Dieses Programm wurde als Teil des Moduls "Effiziente Programmierung" im Sommersemester 2023 für den Masterstudiengang Geoinformatik und Vermessung an der Hochschule Mainz entwickelt.
+Wir werden uns mit der Analyse eines dreidimensionalen Dreiecksnetzes (Mesh) im obj-Format befassen und das Ziel ist es, die Nachbar-Eckpunkte für einen bestimmten ausgewählten Eckpunkt zu bestimmen.
 
 
 ## Konfiguration
