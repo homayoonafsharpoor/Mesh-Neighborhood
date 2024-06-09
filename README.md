@@ -3,7 +3,9 @@
 ## Beschreibung
 
 Wir werden uns mit der Analyse eines dreidimensionalen Dreiecksnetzes (Mesh) im obj-Format befassen und das Ziel ist es, die Nachbar-Eckpunkte für einen bestimmten ausgewählten Eckpunkt zu bestimmen.
-
+Gegeben: Ein dreidimensionales Dreiecksnetz (mesh) im obj-Format. 
+Gesucht: Für einen ausgewählten Eckpunkt des Dreiecksnetzes sind seine Nachbar-Eckpunkte zu  
+bestimmen. 
 
 ## Konfiguration
 
