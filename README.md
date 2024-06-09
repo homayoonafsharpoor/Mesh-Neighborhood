@@ -44,4 +44,4 @@ die Folien einer Kurzpräsentation zu dem Projekt :[Mesh_Neighborhood](https://g
 
 Dokumentation : [Dokumentation_59](https://gitlab.rlp.net/effprog_2023/02_projekte_abgaben/59_homayoon-afsharpoor/-/blob/main/Dokumentation_59.pdf)
 
-
+linkedin : (https://www.linkedin.com/in/homayoon-afsharpoor/)
