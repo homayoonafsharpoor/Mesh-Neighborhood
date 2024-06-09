@@ -1,0 +1,31 @@
+Anleitung zur Programmnutzung
+
+Einführung:
+Diese Anleitung beschreibt die Verwendung des Programms zur Verarbeitung von Cod. Das Programm wurde in C++ implementiert und verwendet den C++11-Standard. Es wurde mit dem GCC-Compiler und normalen Einstellungen kompiliert.
+
+Voraussetzungen:
+Um das Programm ausführen zu können, müssen folgende Voraussetzungen erfüllt sein:
+Ein C++11-kompatibler Compiler (z. B. GCC, Clang)
+Eine unterstützte Entwicklungsumgebung (z. B. Visual Studio, Code Blocks, Visual Studio Code)
+
+Hinweis ; Eingabedaten und die Quellencode müssen im gleichen Verzeichnis liegen.
+
+Der Programm argument lautet:
+  program_name input.obj -v 1.0 2.0 3.0 -N3 -o output.obj
+
+Dieser Befehl verarbeitet die Datei "input.obj", sucht nach den 3 nächsten Nachbarn des Eckpunkts (1.0, 2.0, 3.0) und schreibt das Ergebnis in die Datei "output.obj".
+
+
+Beispiel:
+Arguments:{
+        input_file : spitze.obj,
+        output_file : spitze-nachbarn.obj,
+        vertex : v 10 90 41 ,
+        N : 3
+}
+ Nachbar-Eckpunkte gespeichert
+
+
+
+Ausgabe:
+Die Ausgabe des Programms wird in der angegebenen Ausgabedatei  geschrieben. 
