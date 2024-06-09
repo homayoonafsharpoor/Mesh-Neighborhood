@@ -1,0 +1,30 @@
+Im MeshLab-Ordner befinden sich die Screenshots. Sowohl die Eingabe.obj als auch die -nachbrn.obj sind im MeshLab vorhanden. Der graue Bereich und die gelben Punkte repräsentieren die Daten der -nachbarn.obj. Die Eingabe.obj wird im MeshLab nur als Wireframe dargestellt und nicht ausgefüllt(Fill).
+
+
+Die argumentsbefehlen , die in Testdata als Beispiel verwendet wurde, sind :
+
+find_neighbors.exe  bird.obj  -v -8.735 3.003 0  -N 3    -o bird-nachbarn.obj
+
+find_neighbors.exe  D_DGM_Jena.obj  -v 23.881656804704107 -14.60946745518595 357.17 -N 3   -o D_DGM_Jena-nachbarn.obj
+
+find_neighbors.exe   exam03b.obj  -v   1.5061   3.2759  21.3000  -N 3    -o exam03b-nachbarn.obj
+
+find_neighbors.exe    mesh_5.obj  -v  5.803  8.229  0.000  -N 3    -o mesh_5-nachbarn.obj
+
+find_neighbors.exe    minitarget.obj  -v   10.0000    80.0000    59.0000   -N 3    -o minitarget-nachbarn.obj
+
+find_neighbors.exe    spitze.obj  -v    10.0000    90.0000    41.0000    -N 3    -o spitze-nachbarn.obj
+
+find_neighbors.exe     US68Road.obj  -v -127.046734 614.593253 818.555497    -N 3    -o US68Road-nachbarn.obj
+
+
+
+Beachten Sie, dass auf CodeBlocks das Hinzufügen von "find_neighbors.exe" in den Argumenten nicht erforderlich ist. Zum Beispiel können Sie folgenden Befehl verwenden:
+
+bird.obj  -v -8.735 3.003 0  -N 3    -o bird-nachbarn.obj
+
+
+
+
+
+
